@@ -1,3 +1,4 @@
+<img src="https://skilltouchng.com/images/compschool_tabs/full-stack-developer%20abuja%20learnwebdevelopment%20fast.png">
 <h1 align="center">Hi 👋, I'm Dilshan Fernando</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
