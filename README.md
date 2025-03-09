@@ -1,6 +1,6 @@
 <img src="https://asapkerala.gov.in/wp-content/uploads/2022/02/net.jpg">
 <h1 align="center">Hi 👋, I'm Dilshan Fernando</h1>
-<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshantrx&label=Profile%20views&color=0e75b6&style=flat" alt="dilshantrx" /> </p>
 
